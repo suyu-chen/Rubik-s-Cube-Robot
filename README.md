@@ -1,4 +1,5 @@
-# Rubiks-Cube-Robot
+# Rubik's Cube Robot
+![alt text](https://github.com/suyu-chen/Rubiks-Cube-Robot/blob/main/Photo.png)
 A robot for manipulating a Rubik's cube using 3 servo motors.
 
 Uses two standard and one continuous servo.
