@@ -8,4 +8,4 @@ Includes Raspberry Pi camera mount for detecting cube colors.
 
 Mk1 version sometimes had trouble turning sides of cube; Mk2 includes geared platform to increase platform rotation torque
 
-Code mostly done by group mate here: https://github.com/nabethg/FinalProject
+Code can be found here: https://github.com/nabethg/FinalProject
